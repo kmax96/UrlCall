@@ -1,0 +1,910 @@
+﻿[2017-12-14 17:29:01]<!--0-->
+[2017-12-14 17:29:01]
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1"><link rel="stylesheet" type="text/css" href="/VMS/DXR.axd?r=0_2005,1_28,1_31,1_29,0_2007,1_10-GLh4f" /><link rel="stylesheet" type="text/css" href="/VMS/DXR.axd?r=0_1951,0_4415,0_4417,0_1949-GLh4f" /><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0" /><title>
+	LoGin璅遣
+</title><link rel="stylesheet" type="text/css" href="../Content/Site.css" />
+    
+    <style style="text/css">
+ 
+
+    </style>
+    <link rel="shortcut icon" href="http://www.example.com/my_empty_resource" /></head>
+<body id="ctl00_ctl00_Body">
+    <form method="post" action="./Login.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="YS+en5BYhXhaq/nulSFkXdvNe5hQsE9Qit0FMbTy1UDW0NRFPz+JLvK8jBVBmEYUYq3+Yw8PjnKFzzvNkpLvvTnmw32/XK1MFa0WJ1c0zQ67zp24GmSZebrBT2x2ErlUTD3YxfH6NpKQVY8fnYqATO28tVsdkHaUUHeWduC/5DD/g8MQdB2vksBL5Ibhn5OWfV+VmQ1rfU0LfsAbt0u9G1CMAoE1zeAhW4ljfwCXBxa8ELSeRbZk0QFVd6UMJkGFHmuxmS1YcFMHoTLVgLX1NyWrLlwTXW/JzpTVImMBIpvPZldhCq/bgWtj++CKXcW+OjGbim2Cx+beNHCN7nsL3zPPycd+kQhl00hENev+910fVIGz7U6c7I1FnDafAeR2eN++akoREW47HofMlG8ldCBchRxg1FXF1MhhLa8NSN9olIPFFqlQILl/7QE9KX8Ef3RuvxYflvLDxtLXuPALrMfuiNEj6BLqSzTM/1nhWx4mgNdO3cRldV8ovG2gVD7CC9hkLfuuKwwvNH0Mz7Z0tfVgOUR4VwJLZKmEp8oppxM0De+vmENLtslrZhLmCwpPxW73gtdd5qKqxcT9OECMGzp/YVzK0DsHsyUwHrxoiSvoUu9OtDWrZ7aqBq82SyI5w3p04EHRaAgFAz5aNVQh7uVayY8BJ9RqmGVm4aX2/0pDxJdIJztbwjbOuLOcMmLrCq+HFCMsDb6ia8gOYUg3mfn88W+AdmqtVBJ7ML31vfPWGk3tw8QYGvIB7E8IuIM9GJYe1yVWwSdgfwwNSXqO1a90JEExF8TyCu7m9R+xer/Kj2+dVlrtEV2o9l4I1sQo4VFYyzvYDUGMv4+RNyGYiA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AA186F1E" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="n8ZaAviBCJ48MSp+8xZR4wGbIpopNewXE9tOm/rIGxRY/LBOmkyzudpP6TAIlIM+Qmk8pSrW4ikhmy/7bD1IYqZ1AxIB440AtahF0+0nJ2A8QYnivebiV9a5ntUj6X4McyTwEtTp/U9y1i7o6lbSXg==" />
+        <input type="hidden"/><script id="dxis_103548489" src="/VMS/DXR.axd?r=1_247,1_138,1_241,1_164,1_141,1_135,1_230,1_233,1_239,1_222,1_184,1_242,1_162,1_170,1_151-ELh4f" type="text/javascript"></script><div id="ctl00_ctl00_HeaderPane_EB" class="dxpnl-bar dxpnl-edge t dxpnlControl_Moderno headerPane bar">
+	<div id="ctl00_ctl00_HeaderPane_EBB" class="dxpnl-btn dxpnl-fp">
+		<img id="ctl00_ctl00_HeaderPane_EBBI" class="dxWeb_pnlExpand_Moderno" src="/VMS/DXR.axd?r=1_35-ELh4f" alt="" />
+	</div><div class="dxpnl-bar-tmpl dxpnl-np">
+		
+                <div class="templateTitle">
+                    <div class="templateTitle">
+                        <a href="../Vendor/Introduction.aspx" id="ctl00_ctl00_HeaderPane_EBT_TitleLink">
+                            <img src="../Content/SCM logo_100.png" />
+                        </a><span style="font-size: 14px; top: -7px; position: relative;">(蝬脤?皜祈岫銝?</span>
+                    </div>
+                </div>
+            
+	</div>
+</div><div class="dxpnlControl_Moderno headerPane panel dxpnl-edge t" id="ctl00_ctl00_HeaderPane">
+	
+                    <div class="headerTop">
+                        <div class="templateTitle">
+                            <a href="../Vendor/Introduction.aspx" id="ctl00_ctl00_HeaderPane_TitleLink">
+                                <img src="../Content/SCM logo_corp.png" style="width:300px;" />
+                            </a><span style="font-size: 30px; top: -5px; position: relative;">(蝬脤?皜祈岫銝?</span>
+                        </div>
+                        <div style="float: left;  ">
+                            <div class="scroll-down"><div><span class="dxeBase_Moderno" id="ctl00_ctl00_HeaderPane_lblScollText"><font color="Red"><br/></font></span></div>
+                            </div>
+                        </div>
+
+                        <div class="loginControl">
+                            
+                                    <!--
+                                        <a href="Login.aspx" id="ctl00_ctl00_HeaderPane_HeadLoginView_loginLink">?餃</a> 
+                                        | 
+                                    <a href="Register.aspx" id="ctl00_ctl00_HeaderPane_HeadLoginView_registerLink">瘜典?</a>
+                                    |
+                                        <a href="../Vendor/Introduction.aspx">憛怠???</a> -->
+                                
+                        </div>
+                    </div>
+                    <div class="headerMenu">
+                        
+                        <div class="dxmLite_Moderno dxm-ltr">
+		<div class="dxm-main dxm-horizontal headerMenu" id="ctl00_ctl00_HeaderPane_HeaderMenu">
+			<ul class="dx dxm-image-l dxm-noImages">
+				<li class="dxm-item" style="cursor:default;"><b><div class="dxm-content dxm-hasText">
+					<span class="dx-vam">靘??恣??/span>
+				</div></b></li>
+			</ul>
+		</div><b class="dx-clear"></b>
+	</div><script id="dxss_346252362" type="text/javascript">
+<!--
+ASPx.AddHoverItems('ctl00_ctl00_HeaderPane_HeaderMenu',[[['dxm-hovered',''],['',''],['DXI0_'],['','T']]]);
+ASPx.AddDisabledItems('ctl00_ctl00_HeaderPane_HeaderMenu',[[['dxm-disabled'],[''],['DXI0_'],['','T']]]);
+
+var dxo = new ASPxClientMenu('ctl00_ctl00_HeaderPane_HeaderMenu');
+dxo.InitGlobalVariable('headerMenu');
+dxo.SetProperties({
+	'uniqueID':'ctl00$ctl00$HeaderPane$HeaderMenu',
+	'renderData':{
+		'':[0]
+	},
+	'subMenuFIXOffset':1,
+	'subMenuFIYOffset':-2,
+	'subMenuLIXOffset':1,
+	'subMenuLIYOffset':-2,
+	'subMenuXOffset':1,
+	'subMenuYOffset':-2
+});
+dxo.InitializeProperties({
+	'items':[
+		{}
+	]
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+                    </div>
+                
+</div><script id="dxss_1535825997" type="text/javascript">
+<!--
+ASPx.AddHoverItems('ctl00_ctl00_HeaderPane',[[['dxpnl-btnHover'],[''],['EBB']]]);
+ASPx.AddPressedItems('ctl00_ctl00_HeaderPane',[[['dxpnl-btnPressed'],[''],['EBB']]]);
+ASPx.AddSelectedItems('ctl00_ctl00_HeaderPane',[[['panel dxpnl-expanded expandedPanel'],[''],['']],[['dxpnl-expanded'],[''],['EB']],[['dxpnl-btnSelected'],[''],['EBB']]]);
+
+var dxo = new ASPxClientPanel('ctl00_ctl00_HeaderPane');
+dxo.InitGlobalVariable('headerPane');
+dxo.SetProperties({
+	'uniqueID':'ctl00$ctl00$HeaderPane',
+	'collapseWindowWidth':500,
+	'animationType':'fade',
+	'expandEffect':'PopupToBottom'
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+
+        <script type="text/javascript">
+            function updateHeaderMenuOrientation() {
+                var orientation = headerPane.IsExpandable() ? 'Vertical' : 'Horizontal';
+                if (orientation !== headerMenu.GetOrientation())
+                    headerMenu.SetOrientation(orientation);
+            }
+        </script>
+
+        <script id="dxss_162803703" type="text/javascript">
+<!--
+var dxo = ASPx.GetGlobalEvents();
+dxo.SetEvents({
+	'ControlsInitialized':updateHeaderMenuOrientation,
+	'BrowserWindowResized':updateHeaderMenuOrientation
+});
+
+//-->
+</script>
+
+
+        <div class="dxpnlControl_Moderno mainContentPane" id="ctl00_ctl00_MainPane">
+	
+                    
+    <link rel="stylesheet" type="text/css" href="../Css/MsForm-Common-400.css" />
+    <link rel="stylesheet" type="text/css" href="../Css/MsForm-Common.css" />
+    <link rel="stylesheet" type="text/css" href="../Css/Animate.css" />
+    <link rel="stylesheet" type="text/css" href="../Css/DevX_Custom.css" />
+    <script src="../Js/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="../Js/Animate.js" type="text/javascript"></script>
+    <script src="../Js/FormFunc.js" type="text/javascript"></script>
+    <script src="../Js/DevXvalidate.js" type="text/javascript"></script>
+    <div class="content">
+        
+    <script type="text/javascript">
+    
+        function logoutO365() {
+
+            window.location = 'https://login.microsoftonline.com/common/oauth2/logout?post_logout_redirect_uri=' + window.location.href;
+        }
+
+    </script>
+    <style type="text/css">
+
+        .roundedBorders {
+            border-radius: 5px 5px 0px 0px;
+            -moz-border-radius: 5px 5px 0px 0px;
+            -khtml-border-radius: 5px 5px 0px 0px;
+            -webkit-border-radius: 5px 5px 0px 0px;
+            overflow: hidden !important;
+            overflow-x: hidden !important;
+            overflow-y: hidden !important;
+        }
+
+        .topMenu_underLine {
+            background: rgb(41,125,209);
+            background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzI5N2RkMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+            background: -moz-linear-gradient(left, rgba(41,125,209,1) 0%, rgba(255,255,255,1) 45%);
+            background: -webkit-linear-gradient(left, rgba(41,125,209,1) 0%,rgba(255,255,255,1) 45%);
+            background: linear-gradient(to right, rgba(41,125,209,1) 0%,rgba(255,255,255,1) 45%);
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#297dd1', endColorstr='#ffffff',GradientType=1 );
+            height: 2px;
+        }
+    </style>
+    <h2>?餃?</h2>
+    <div class="dxtcLite_SoftOrange dxtcSys dxtc-init dxtc-top dxtc-pc" id="ctl00_ctl00_MainPane_Content_MainContent_pcType" style="display:none;">
+		<ul class="dxtc-strip dxtc-row dxtc-stripContainer">
+			<li class="dxtc-leftIndent">&nbsp;</li><li class="dxtc-tab roundedBorders dxtc-lead" style="display:none;"><a class="dxtc-link"><span class="dx-vam">銝?祉??/span></a></li><li class="dxtc-activeTab roundedBorders dxtc-lead"><a class="dxtc-link"><span class="dx-vam">銝?祉??/span></a></li><li class="dxtc-spacer">&nbsp;</li><li class="dxtc-tab roundedBorders dxtc-last"><a class="dxtc-link"><span class="dx-vam">銋遣?極</span></a></li><li class="dxtc-activeTab roundedBorders dxtc-last" style="display:none;"><a class="dxtc-link"><span class="dx-vam">銋遣?極</span></a></li><li class="dxtc-rightIndent">&nbsp;</li>
+		</ul><div class="dxtc-content">
+			<div>
+				<div>
+					&nbsp;
+				</div>
+			</div><div style="display:none;">
+				<div>
+					&nbsp;
+				</div>
+			</div>
+		</div>
+	</div><b class="dx-clear"></b><table id="ctl00_ctl00_MainPane_Content_MainContent_pcType_LP" class="dxtcLoadingPanel_SoftOrange dxlpLoadingPanel_SoftOrange" style="left:0px;top:0px;z-index:30000;display:none;">
+		<tr>
+			<td class="dx"><img class="dxlp-loadingImage dxlp-imgPosTop" src="/VMS/DXR.axd?r=1_35-ELh4f" alt="" style="vertical-align:middle;" /><br /><span id="ctl00_ctl00_MainPane_Content_MainContent_pcType_TL">Loading&hellip;</span></td>
+		</tr>
+	</table><script id="dxss_640206755" type="text/javascript">
+<!--
+ASPx.AddHoverItems('ctl00_ctl00_MainPane_Content_MainContent_pcType',[[['dxtc-tabHover',''],['',''],['T0','T1'],['','T']],[['dxtc-activeTabHover',''],['',''],['AT0','AT1'],['','T']]]);
+ASPx.AddDisabledItems('ctl00_ctl00_MainPane_Content_MainContent_pcType',[[['dxtcLiteDisabled_SoftOrange',''],['',''],['T0','AT0','T1','AT1'],['','T']]]);
+
+var dxo = new ASPxClientPageControl('ctl00_ctl00_MainPane_Content_MainContent_pcType');
+dxo.InitGlobalVariable('pcType');
+dxo.SetProperties({
+	'callBack':function(arg) { WebForm_DoCallback('ctl00$ctl00$MainPane$Content$MainContent$pcType',arg,ASPx.Callback,'ctl00_ctl00_MainPane_Content_MainContent_pcType',ASPx.CallbackError,true); },
+	'uniqueID':'ctl00$ctl00$MainPane$Content$MainContent$pcType',
+	'clientVisible':false,
+	'emptyHeight':true,
+	'emptyWidth':true,
+	'flexEnabled':false
+});
+dxo.InitializeProperties({
+	'tabs':[['normal',,,,,],['loginscm',,,,,]]
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+    <div style="padding: 10px;">
+        <div class="accountHeader">
+            <p>
+                霂瑁??交??瑕?????
+        憒??典?霈啣??瑕???<a href="ForgotPassword.aspx">霂瑚蝙?冽?砍??霈啣?????/a>??
+             
+            </p>
+        </div>
+
+
+        
+        <div class="form-field">
+            <table id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_ET" class="dxeValidStEditorTable dxeRoot_Moderno">
+		<tr>
+			<td id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_CC" class="dxeErrorFrame_Moderno dxeErrorFrameSys dxeNoBorderRight dxeControlsCell_Moderno" style="vertical-align:middle;"><table class="dxeTextBoxSys dxeTextBox_Moderno dxeTextBoxDefaultWidthSys" id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName" width="200" style="border-collapse:separate;">
+				<tr>
+					<td class="dxic" width="100%"><input class="dxeEditArea_Moderno dxeEditAreaSys" id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_I" name="ctl00$ctl00$MainPane$Content$MainContent$tbUserName" onfocus="ASPx.EGotFocus(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbUserName&#39;)" onblur="ASPx.ELostFocus(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbUserName&#39;)" onchange="ASPx.EValueChanged(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbUserName&#39;)" value="撣" type="text" /></td>
+				</tr>
+			</table></td><td id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_EC" class="dxeErrorCell_Moderno dxeErrorFrame_Moderno dxeErrorFrameSys dxeErrorCellSys dxeNoBorderLeft" style="vertical-align:middle;visibility:hidden;"><table width="100%">
+				<tr>
+					<td><img id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_EI" class="dxEditors_edtError_Moderno" src="/VMS/DXR.axd?r=1_35-ELh4f" alt="" /></td><td id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_ETC" width="100%" style="white-space:nowrap;">Invalid value</td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><script id="dxss_355943845" type="text/javascript">
+<!--
+ASPx.AddDisabledItems('ctl00_ctl00_MainPane_Content_MainContent_tbUserName',[[['dxeDisabled_Moderno'],[''],['','I']]]);
+
+var dxo = new ASPxClientTextBox('ctl00_ctl00_MainPane_Content_MainContent_tbUserName');
+dxo.InitGlobalVariable('ctl00_ctl00_MainPane_Content_MainContent_tbUserName');
+dxo.SetProperties({
+	'uniqueID':'ctl00$ctl00$MainPane$Content$MainContent$tbUserName',
+	'stateObject':{'rawValue':''},
+	'validationGroup':'LoginUserValidationGroup',
+	'customValidationEnabled':true,
+	'isValid':true,
+	'errorText':'Invalid value',
+	'validationPatterns':[
+		new ASPx.RequiredFieldValidationPattern('撣敹?憛怠神')
+	],
+	'isErrorFrameRequired':true,
+	'errorImageIsAssigned':true,
+	'nullText':'撣',
+	'helpText':'颲?函?撣',
+	'helpTextDisplayMode':'Popup',
+	'helpTextVAlign':'Middle',
+	'helpTextStyle':['dxeHelpText_Moderno', null]
+});
+dxo.SetEvents({
+	'KeyUp':function(s,e){
+                    var t = s.GetText();
+                        if(t.toLowerCase().endsWith('@loginscm.com'))
+                        {            
+                        }                    
+                    }
+});
+dxo.InitializeProperties({
+	'decorationStyles':[
+		{'key':'I','className':'dxeInvalid_Moderno','cssText':''},
+		{'key':'F','className':'dxeFocused_Moderno','cssText':''},
+		{'key':'N','className':'dxeNullText_Moderno','cssText':''}
+	]
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+        </div>
+        
+        <div class="form-field">
+            <table id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_ET" class="dxeValidStEditorTable dxeRoot_Moderno">
+		<tr>
+			<td id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_CC" class="dxeErrorFrame_Moderno dxeErrorFrameSys dxeNoBorderRight dxeControlsCell_Moderno" style="vertical-align:middle;"><table class="dxeTextBoxSys dxeTextBox_Moderno dxeTextBoxDefaultWidthSys" id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword" width="200" style="border-collapse:separate;">
+				<tr>
+					<td class="dxic" width="100%"><input class="dxeEditArea_Moderno dxeEditAreaSys" id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_I" name="ctl00$ctl00$MainPane$Content$MainContent$tbPassword" onfocus="ASPx.EGotFocus(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbPassword&#39;)" onblur="ASPx.ELostFocus(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbPassword&#39;)" onchange="ASPx.EValueChanged(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbPassword&#39;)" type="password" /></td>
+				</tr>
+			</table></td><td id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_EC" class="dxeErrorCell_Moderno dxeErrorFrame_Moderno dxeErrorFrameSys dxeErrorCellSys dxeNoBorderLeft" style="vertical-align:middle;visibility:hidden;"><table width="100%">
+				<tr>
+					<td><img id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_EI" class="dxEditors_edtError_Moderno" src="/VMS/DXR.axd?r=1_35-ELh4f" alt="" /></td><td id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_ETC" width="100%" style="white-space:nowrap;">Invalid value</td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><script id="dxss_1139813919" type="text/javascript">
+<!--
+
+var dxo = new ASPxClientTextBox('ctl00_ctl00_MainPane_Content_MainContent_tbPassword');
+dxo.InitGlobalVariable('ctl00_ctl00_MainPane_Content_MainContent_tbPassword');
+dxo.SetProperties({
+	'uniqueID':'ctl00$ctl00$MainPane$Content$MainContent$tbPassword',
+	'stateObject':{'rawValue':''},
+	'validationGroup':'LoginUserValidationGroup',
+	'customValidationEnabled':true,
+	'isValid':true,
+	'errorText':'Invalid value',
+	'validationPatterns':[
+		new ASPx.RequiredFieldValidationPattern('撖?敹?憛怠神')
+	],
+	'isErrorFrameRequired':true,
+	'errorImageIsAssigned':true,
+	'nullText':'撖?',
+	'helpText':'颲?函?撖?',
+	'helpTextDisplayMode':'Popup',
+	'helpTextVAlign':'Middle',
+	'helpTextStyle':['dxeHelpText_Moderno', null]
+});
+dxo.InitializeProperties({
+	'decorationStyles':[
+		{'key':'I','className':'dxeInvalid_Moderno','cssText':''},
+		{'key':'F','className':'dxeFocused_Moderno','cssText':''},
+		{'key':'N','className':'dxeNullText_Moderno','cssText':''}
+	]
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+        </div>
+        <div class="dxbButton_Moderno dxbButtonSys dxbTSys" id="ctl00_ctl00_MainPane_Content_MainContent_btnLogin" style="user-select:none;-khtml-user-select:none;-ms-user-select:none;">
+		<div class="dxb">
+			<input id="ctl00_ctl00_MainPane_Content_MainContent_btnLogin_I" class="dxb-hb" value="?餃?" type="submit" name="ctl00$ctl00$MainPane$Content$MainContent$btnLogin" /><span class="dx-vam">?餃?</span>
+		</div>
+	</div><script id="dxss_2009617069" type="text/javascript">
+<!--
+ASPx.AddHoverItems('ctl00_ctl00_MainPane_Content_MainContent_btnLogin',[[['dxbButtonHover_Moderno'],[''],[''],['','TC']]]);
+ASPx.AddPressedItems('ctl00_ctl00_MainPane_Content_MainContent_btnLogin',[[['dxbButtonPressed_Moderno'],[''],[''],['','TC']]]);
+ASPx.AddSelectedItems('ctl00_ctl00_MainPane_Content_MainContent_btnLogin',[[['dxbf'],[''],['CD']]]);
+
+var dxo = new ASPxClientButton('ctl00_ctl00_MainPane_Content_MainContent_btnLogin');
+dxo.InitGlobalVariable('ctl00_ctl00_MainPane_Content_MainContent_btnLogin');
+dxo.SetProperties({
+	'autoPostBack':true,
+	'uniqueID':'ctl00$ctl00$MainPane$Content$MainContent$btnLogin',
+	'serverEvents':['Click'],
+	'validationGroup':'LoginUserValidationGroup'
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+    </div>
+    <br />
+    <div class="topMenu_underLine">
+    </div>
+    <div style="padding: 10px;">
+        <p>
+            <input type="image" name="ctl00$ctl00$MainPane$Content$MainContent$ImageButton1" id="ctl00_ctl00_MainPane_Content_MainContent_ImageButton1" src="../Content/O365Login.png" />
+        </p>
+        <p>
+            <a href="javascript:logoutO365();">
+            <img src="../Content/O365Logout.png" /></a>
+        </p>
+    </div>
+    <div style="padding: 8px;">
+        <h1 style="font-family: 'Arial,Helvetica Neue,Helvetica,sans-serif'; font-size: 18px;">憯唳?嚗憯唳??捆撠???湔嚗??阡?嚗?霂瑟?甈∠?交蝵△??敹◆?仿?敶?銝?甈∠?交?隞祉?蝵△?嚗銵函內???亙?隞乩???唬?憯唳??蝥行???
+        </h1>
+        <div style="font-family: 'Arial,Helvetica Neue,Helvetica,sans-serif'; font-size: 14px">
+            1.?祉?憿萄??鈭?砍?豢?????鈭箔?/雿輻????
+ 
+         
+             
+            <br>
+            <br>2.?冽蝵△???頧賣?????靘????
+ 
+         
+             
+            <br>
+            <br>3. 憒??鈭箔?/雿輻???祉?憿菜?閫?霂餃?嚗?頧賣?隞乩遙雿撘?葵鈭箄???敹◆銝交?萎?銝芯犖韏?嚗????∩?嚗?皜舀?靘洵486蝡???摰蝙?典?憭??銝芯犖韏??????祉?憿萄?敺?銝芯犖韏?鈭血?舐鈭?喃?摰????祉?憿萄?敺?韏??芯????雿輻?嗥?韐?遙?望??犖隞?雿輻?撌梯?韐??
+ 
+         
+             
+            <br>
+            <br>4.?砍?豢????嗥?甇Ｘ??犖憯?雿輻???餃????
+ 
+         
+             
+            <br>
+            <br>5.?砍?豢???蝏＆霈支?頧賢??????＆?改?憒?鈭悅嚗?璁誑蝵?霈啣?銝箏???
+ 
+         
+             
+            <br>
+            <br>6.?砍?訾??????祉?憿萎?頧賜?韏?銋?蝏蝙?冽???
+ 
+         
+             
+            <br>
+            <br>7.?砍?豢???甇Ｖ遙雿犖隞蝙??銵蝙隞蝵△?園????扇敶??乩遙雿犖隞?撘隞蝵△?園??????遙雿?敺?霈潘?銝??敺提隞餅?銝?砍???
+ 
+         
+             
+            <br>
+            <br>8.隞颱?鈭箔?隞蝵△?園?銋????芰??砍?詨???銝??洵銝?銝隡撈蝑?莎?鈭斗嚗???頧祉宏嚗???喳?餈???
+ 
+         
+             
+            <br>
+            <br>
+        </div>
+    </div>
+
+
+    </div>
+
+                
+</div>
+
+        <div class="dxpnlControl_Moderno footerPane panel dxpnl-edge b" id="ctl00_ctl00_FooterPane">
+	
+                    <div class="footerMenu">
+                        
+                        <div style="display: block;">
+                            <span class="dxeBase_Moderno" id="ctl00_ctl00_FooterPane_ASPxLabel2">銋遣擐葛???砍 &#169; 2017 ?????/span>
+                        </div>
+                    </div>
+
+                
+</div><script id="dxss_389532523" type="text/javascript">
+<!--
+
+var dxo = new ASPxClientPanel('ctl00_ctl00_FooterPane');
+dxo.InitGlobalVariable('footerPane');
+dxo.SetProperties({'uniqueID':'ctl00$ctl00$FooterPane','hideWindowWidth':500});
+dxo.AfterCreate();
+
+//-->
+</script>
+
+    </form>
+</body>
+</html>
+
+[2017-12-14 17:29:01]<!--End---0-->
+[2017-12-14 17:29:01]<!--1-->
+[2017-12-14 17:29:01]
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1"><link rel="stylesheet" type="text/css" href="/VMS/DXR.axd?r=0_2005,1_28,1_31,1_29,0_2007,1_10-GLh4f" /><link rel="stylesheet" type="text/css" href="/VMS/DXR.axd?r=0_1951,0_4415,0_4417,0_1949-GLh4f" /><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0" /><title>
+	LoGin璅遣
+</title><link rel="stylesheet" type="text/css" href="../Content/Site.css" />
+    
+    <style style="text/css">
+ 
+
+    </style>
+    <link rel="shortcut icon" href="http://www.example.com/my_empty_resource" /></head>
+<body id="ctl00_ctl00_Body">
+    <form method="post" action="./Login.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="1Ro4qurre0dKDdLBP+M+ZhV+WJdBmXGdOgBjb6rcPINXIiEpVxSKoQTJCpoD02EhiVEy2vyVBAqUfCBs7PUPPVGE6vew/0z9Al6JgWPh8pVVfMSdjyuYdIdzV8GWR7kvtHcdEE+GcKO+x33fCxOOkWHrmvwSMp5aqlcnVG/ds4nH8hUxmgpCdvDen3lwVtKgj2G7VdbtMCfoQzXrrCxvgiERMkaGpEH0AhDY4X8sg4JpP6nfsJUwJj80+bf0xj4iJxGqWgyixXAKjsOB3BV03Q0ZeJi3aLp30MrXCRERub2qst0UdAFuliG87q7GMJ/BspFhRm0j/QM5c4ZbQM+2nRks5rGIrdx3U1X6aIhvfBvB85zchTU/QaH/kdDkGobMIGweQx7x1KWbPG/AjbOwARMK4T9y9rK3hzr+VjHMrtwgTbarTKc/9bHGeBZeIqrScTAu4H743eDghVW7CVu9Hxo52FFLm26gz59WgWeadmj3L16T4r9RvnEXuntuiQpAYsARPx8phyTrKSqUS6THS5K/JBwemlpKHUrq4SWM8h6+N5QnU7eCs/nMizGfE5ZWCHlqE8GTP69kEhN8NTWKWti+aQK+dgy7pue0BwylBLsq6oF/ynOCaGqqqn1RRHHFnXeIjWRTj4AY9wrDnSAXhT+pihAqzWQDPAGPvB431BoY7nJ0YuKQA9/80QSy5KCSLx9TDZ4gNE2bxFkjGWa6fJfVSyZRkPKF1J/xlkQHB2V0pqoa6D4slEFameCRgWLZacgIs1k6NgaekYUQJ8VrGnamgrNr9c9TgijZ6tx0GSrOXbJ4xLOVHZBNoOdXP2e7so1BqlWcqwEPG+xeYwF62A==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AA186F1E" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="ZQXyaXpXwjL6GkOEvsDbZ5XELlBYOUHCB7emL7xrDy2kuy1zmv98kPDFuFCPClg+mbbIKSfOYnzgLf0BVCTXYZWXxMxir9krlLKm0cqilUyAYaP+n6lg7HmK0AF3cxjfctxlyRR0A19nw+nkL9TcxA==" />
+        <input type="hidden"/><script id="dxis_103548489" src="/VMS/DXR.axd?r=1_247,1_138,1_241,1_164,1_141,1_135,1_230,1_233,1_239,1_222,1_184,1_242,1_162,1_170,1_151-ELh4f" type="text/javascript"></script><div id="ctl00_ctl00_HeaderPane_EB" class="dxpnl-bar dxpnl-edge t dxpnlControl_Moderno headerPane bar">
+	<div id="ctl00_ctl00_HeaderPane_EBB" class="dxpnl-btn dxpnl-fp">
+		<img id="ctl00_ctl00_HeaderPane_EBBI" class="dxWeb_pnlExpand_Moderno" src="/VMS/DXR.axd?r=1_35-ELh4f" alt="" />
+	</div><div class="dxpnl-bar-tmpl dxpnl-np">
+		
+                <div class="templateTitle">
+                    <div class="templateTitle">
+                        <a href="../Vendor/Introduction.aspx" id="ctl00_ctl00_HeaderPane_EBT_TitleLink">
+                            <img src="../Content/SCM logo_100.png" />
+                        </a><span style="font-size: 14px; top: -7px; position: relative;">(蝬脤?皜祈岫銝?</span>
+                    </div>
+                </div>
+            
+	</div>
+</div><div class="dxpnlControl_Moderno headerPane panel dxpnl-edge t" id="ctl00_ctl00_HeaderPane">
+	
+                    <div class="headerTop">
+                        <div class="templateTitle">
+                            <a href="../Vendor/Introduction.aspx" id="ctl00_ctl00_HeaderPane_TitleLink">
+                                <img src="../Content/SCM logo_corp.png" style="width:300px;" />
+                            </a><span style="font-size: 30px; top: -5px; position: relative;">(蝬脤?皜祈岫銝?</span>
+                        </div>
+                        <div style="float: left;  ">
+                            <div class="scroll-down"><div><span class="dxeBase_Moderno" id="ctl00_ctl00_HeaderPane_lblScollText"><font color="Red"><br/></font></span></div>
+                            </div>
+                        </div>
+
+                        <div class="loginControl">
+                            
+                                    <!--
+                                        <a href="Login.aspx" id="ctl00_ctl00_HeaderPane_HeadLoginView_loginLink">?餃</a> 
+                                        | 
+                                    <a href="Register.aspx" id="ctl00_ctl00_HeaderPane_HeadLoginView_registerLink">瘜典?</a>
+                                    |
+                                        <a href="../Vendor/Introduction.aspx">憛怠???</a> -->
+                                
+                        </div>
+                    </div>
+                    <div class="headerMenu">
+                        
+                        <div class="dxmLite_Moderno dxm-ltr">
+		<div class="dxm-main dxm-horizontal headerMenu" id="ctl00_ctl00_HeaderPane_HeaderMenu">
+			<ul class="dx dxm-image-l dxm-noImages">
+				<li class="dxm-item" style="cursor:default;"><b><div class="dxm-content dxm-hasText">
+					<span class="dx-vam">靘??恣??/span>
+				</div></b></li>
+			</ul>
+		</div><b class="dx-clear"></b>
+	</div><script id="dxss_346252362" type="text/javascript">
+<!--
+ASPx.AddHoverItems('ctl00_ctl00_HeaderPane_HeaderMenu',[[['dxm-hovered',''],['',''],['DXI0_'],['','T']]]);
+ASPx.AddDisabledItems('ctl00_ctl00_HeaderPane_HeaderMenu',[[['dxm-disabled'],[''],['DXI0_'],['','T']]]);
+
+var dxo = new ASPxClientMenu('ctl00_ctl00_HeaderPane_HeaderMenu');
+dxo.InitGlobalVariable('headerMenu');
+dxo.SetProperties({
+	'uniqueID':'ctl00$ctl00$HeaderPane$HeaderMenu',
+	'renderData':{
+		'':[0]
+	},
+	'subMenuFIXOffset':1,
+	'subMenuFIYOffset':-2,
+	'subMenuLIXOffset':1,
+	'subMenuLIYOffset':-2,
+	'subMenuXOffset':1,
+	'subMenuYOffset':-2
+});
+dxo.InitializeProperties({
+	'items':[
+		{}
+	]
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+                    </div>
+                
+</div><script id="dxss_1535825997" type="text/javascript">
+<!--
+ASPx.AddHoverItems('ctl00_ctl00_HeaderPane',[[['dxpnl-btnHover'],[''],['EBB']]]);
+ASPx.AddPressedItems('ctl00_ctl00_HeaderPane',[[['dxpnl-btnPressed'],[''],['EBB']]]);
+ASPx.AddSelectedItems('ctl00_ctl00_HeaderPane',[[['panel dxpnl-expanded expandedPanel'],[''],['']],[['dxpnl-expanded'],[''],['EB']],[['dxpnl-btnSelected'],[''],['EBB']]]);
+
+var dxo = new ASPxClientPanel('ctl00_ctl00_HeaderPane');
+dxo.InitGlobalVariable('headerPane');
+dxo.SetProperties({
+	'uniqueID':'ctl00$ctl00$HeaderPane',
+	'collapseWindowWidth':500,
+	'animationType':'fade',
+	'expandEffect':'PopupToBottom'
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+
+        <script type="text/javascript">
+            function updateHeaderMenuOrientation() {
+                var orientation = headerPane.IsExpandable() ? 'Vertical' : 'Horizontal';
+                if (orientation !== headerMenu.GetOrientation())
+                    headerMenu.SetOrientation(orientation);
+            }
+        </script>
+
+        <script id="dxss_162803703" type="text/javascript">
+<!--
+var dxo = ASPx.GetGlobalEvents();
+dxo.SetEvents({
+	'ControlsInitialized':updateHeaderMenuOrientation,
+	'BrowserWindowResized':updateHeaderMenuOrientation
+});
+
+//-->
+</script>
+
+
+        <div class="dxpnlControl_Moderno mainContentPane" id="ctl00_ctl00_MainPane">
+	
+                    
+    <link rel="stylesheet" type="text/css" href="../Css/MsForm-Common-400.css" />
+    <link rel="stylesheet" type="text/css" href="../Css/MsForm-Common.css" />
+    <link rel="stylesheet" type="text/css" href="../Css/Animate.css" />
+    <link rel="stylesheet" type="text/css" href="../Css/DevX_Custom.css" />
+    <script src="../Js/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="../Js/Animate.js" type="text/javascript"></script>
+    <script src="../Js/FormFunc.js" type="text/javascript"></script>
+    <script src="../Js/DevXvalidate.js" type="text/javascript"></script>
+    <div class="content">
+        
+    <script type="text/javascript">
+    
+        function logoutO365() {
+
+            window.location = 'https://login.microsoftonline.com/common/oauth2/logout?post_logout_redirect_uri=' + window.location.href;
+        }
+
+    </script>
+    <style type="text/css">
+
+        .roundedBorders {
+            border-radius: 5px 5px 0px 0px;
+            -moz-border-radius: 5px 5px 0px 0px;
+            -khtml-border-radius: 5px 5px 0px 0px;
+            -webkit-border-radius: 5px 5px 0px 0px;
+            overflow: hidden !important;
+            overflow-x: hidden !important;
+            overflow-y: hidden !important;
+        }
+
+        .topMenu_underLine {
+            background: rgb(41,125,209);
+            background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzI5N2RkMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjQ1JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+            background: -moz-linear-gradient(left, rgba(41,125,209,1) 0%, rgba(255,255,255,1) 45%);
+            background: -webkit-linear-gradient(left, rgba(41,125,209,1) 0%,rgba(255,255,255,1) 45%);
+            background: linear-gradient(to right, rgba(41,125,209,1) 0%,rgba(255,255,255,1) 45%);
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#297dd1', endColorstr='#ffffff',GradientType=1 );
+            height: 2px;
+        }
+    </style>
+    <h2>?餃?</h2>
+    <div class="dxtcLite_SoftOrange dxtcSys dxtc-init dxtc-top dxtc-pc" id="ctl00_ctl00_MainPane_Content_MainContent_pcType" style="display:none;">
+		<ul class="dxtc-strip dxtc-row dxtc-stripContainer">
+			<li class="dxtc-leftIndent">&nbsp;</li><li class="dxtc-tab roundedBorders dxtc-lead" style="display:none;"><a class="dxtc-link"><span class="dx-vam">銝?祉??/span></a></li><li class="dxtc-activeTab roundedBorders dxtc-lead"><a class="dxtc-link"><span class="dx-vam">銝?祉??/span></a></li><li class="dxtc-spacer">&nbsp;</li><li class="dxtc-tab roundedBorders dxtc-last"><a class="dxtc-link"><span class="dx-vam">銋遣?極</span></a></li><li class="dxtc-activeTab roundedBorders dxtc-last" style="display:none;"><a class="dxtc-link"><span class="dx-vam">銋遣?極</span></a></li><li class="dxtc-rightIndent">&nbsp;</li>
+		</ul><div class="dxtc-content">
+			<div>
+				<div>
+					&nbsp;
+				</div>
+			</div><div style="display:none;">
+				<div>
+					&nbsp;
+				</div>
+			</div>
+		</div>
+	</div><b class="dx-clear"></b><table id="ctl00_ctl00_MainPane_Content_MainContent_pcType_LP" class="dxtcLoadingPanel_SoftOrange dxlpLoadingPanel_SoftOrange" style="left:0px;top:0px;z-index:30000;display:none;">
+		<tr>
+			<td class="dx"><img class="dxlp-loadingImage dxlp-imgPosTop" src="/VMS/DXR.axd?r=1_35-ELh4f" alt="" style="vertical-align:middle;" /><br /><span id="ctl00_ctl00_MainPane_Content_MainContent_pcType_TL">Loading&hellip;</span></td>
+		</tr>
+	</table><script id="dxss_640206755" type="text/javascript">
+<!--
+ASPx.AddHoverItems('ctl00_ctl00_MainPane_Content_MainContent_pcType',[[['dxtc-tabHover',''],['',''],['T0','T1'],['','T']],[['dxtc-activeTabHover',''],['',''],['AT0','AT1'],['','T']]]);
+ASPx.AddDisabledItems('ctl00_ctl00_MainPane_Content_MainContent_pcType',[[['dxtcLiteDisabled_SoftOrange',''],['',''],['T0','AT0','T1','AT1'],['','T']]]);
+
+var dxo = new ASPxClientPageControl('ctl00_ctl00_MainPane_Content_MainContent_pcType');
+dxo.InitGlobalVariable('pcType');
+dxo.SetProperties({
+	'callBack':function(arg) { WebForm_DoCallback('ctl00$ctl00$MainPane$Content$MainContent$pcType',arg,ASPx.Callback,'ctl00_ctl00_MainPane_Content_MainContent_pcType',ASPx.CallbackError,true); },
+	'uniqueID':'ctl00$ctl00$MainPane$Content$MainContent$pcType',
+	'clientVisible':false,
+	'emptyHeight':true,
+	'emptyWidth':true,
+	'flexEnabled':false
+});
+dxo.InitializeProperties({
+	'tabs':[['normal',,,,,],['loginscm',,,,,]]
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+    <div style="padding: 10px;">
+        <div class="accountHeader">
+            <p>
+                霂瑁??交??瑕?????
+        憒??典?霈啣??瑕???<a href="ForgotPassword.aspx">霂瑚蝙?冽?砍??霈啣?????/a>??
+             
+            </p>
+        </div>
+
+
+        
+        <div class="form-field">
+            <table id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_ET" class="dxeValidStEditorTable dxeRoot_Moderno">
+		<tr>
+			<td id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_CC" class="dxeErrorFrame_Moderno dxeErrorFrameSys dxeNoBorderRight dxeControlsCell_Moderno" style="vertical-align:middle;"><table class="dxeTextBoxSys dxeTextBox_Moderno dxeTextBoxDefaultWidthSys" id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName" width="200" style="border-collapse:separate;">
+				<tr>
+					<td class="dxic" width="100%"><input class="dxeEditArea_Moderno dxeEditAreaSys" id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_I" name="ctl00$ctl00$MainPane$Content$MainContent$tbUserName" onfocus="ASPx.EGotFocus(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbUserName&#39;)" onblur="ASPx.ELostFocus(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbUserName&#39;)" onchange="ASPx.EValueChanged(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbUserName&#39;)" value="撣" type="text" /></td>
+				</tr>
+			</table></td><td id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_EC" class="dxeErrorCell_Moderno dxeErrorFrame_Moderno dxeErrorFrameSys dxeErrorCellSys dxeNoBorderLeft" style="vertical-align:middle;visibility:hidden;"><table width="100%">
+				<tr>
+					<td><img id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_EI" class="dxEditors_edtError_Moderno" src="/VMS/DXR.axd?r=1_35-ELh4f" alt="" /></td><td id="ctl00_ctl00_MainPane_Content_MainContent_tbUserName_ETC" width="100%" style="white-space:nowrap;">Invalid value</td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><script id="dxss_355943845" type="text/javascript">
+<!--
+ASPx.AddDisabledItems('ctl00_ctl00_MainPane_Content_MainContent_tbUserName',[[['dxeDisabled_Moderno'],[''],['','I']]]);
+
+var dxo = new ASPxClientTextBox('ctl00_ctl00_MainPane_Content_MainContent_tbUserName');
+dxo.InitGlobalVariable('ctl00_ctl00_MainPane_Content_MainContent_tbUserName');
+dxo.SetProperties({
+	'uniqueID':'ctl00$ctl00$MainPane$Content$MainContent$tbUserName',
+	'stateObject':{'rawValue':''},
+	'validationGroup':'LoginUserValidationGroup',
+	'customValidationEnabled':true,
+	'isValid':true,
+	'errorText':'Invalid value',
+	'validationPatterns':[
+		new ASPx.RequiredFieldValidationPattern('撣敹?憛怠神')
+	],
+	'isErrorFrameRequired':true,
+	'errorImageIsAssigned':true,
+	'nullText':'撣',
+	'helpText':'颲?函?撣',
+	'helpTextDisplayMode':'Popup',
+	'helpTextVAlign':'Middle',
+	'helpTextStyle':['dxeHelpText_Moderno', null]
+});
+dxo.SetEvents({
+	'KeyUp':function(s,e){
+                    var t = s.GetText();
+                        if(t.toLowerCase().endsWith('@loginscm.com'))
+                        {            
+                        }                    
+                    }
+});
+dxo.InitializeProperties({
+	'decorationStyles':[
+		{'key':'I','className':'dxeInvalid_Moderno','cssText':''},
+		{'key':'F','className':'dxeFocused_Moderno','cssText':''},
+		{'key':'N','className':'dxeNullText_Moderno','cssText':''}
+	]
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+        </div>
+        
+        <div class="form-field">
+            <table id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_ET" class="dxeValidStEditorTable dxeRoot_Moderno">
+		<tr>
+			<td id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_CC" class="dxeErrorFrame_Moderno dxeErrorFrameSys dxeNoBorderRight dxeControlsCell_Moderno" style="vertical-align:middle;"><table class="dxeTextBoxSys dxeTextBox_Moderno dxeTextBoxDefaultWidthSys" id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword" width="200" style="border-collapse:separate;">
+				<tr>
+					<td class="dxic" width="100%"><input class="dxeEditArea_Moderno dxeEditAreaSys" id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_I" name="ctl00$ctl00$MainPane$Content$MainContent$tbPassword" onfocus="ASPx.EGotFocus(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbPassword&#39;)" onblur="ASPx.ELostFocus(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbPassword&#39;)" onchange="ASPx.EValueChanged(&#39;ctl00_ctl00_MainPane_Content_MainContent_tbPassword&#39;)" type="password" /></td>
+				</tr>
+			</table></td><td id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_EC" class="dxeErrorCell_Moderno dxeErrorFrame_Moderno dxeErrorFrameSys dxeErrorCellSys dxeNoBorderLeft" style="vertical-align:middle;visibility:hidden;"><table width="100%">
+				<tr>
+					<td><img id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_EI" class="dxEditors_edtError_Moderno" src="/VMS/DXR.axd?r=1_35-ELh4f" alt="" /></td><td id="ctl00_ctl00_MainPane_Content_MainContent_tbPassword_ETC" width="100%" style="white-space:nowrap;">Invalid value</td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><script id="dxss_1139813919" type="text/javascript">
+<!--
+
+var dxo = new ASPxClientTextBox('ctl00_ctl00_MainPane_Content_MainContent_tbPassword');
+dxo.InitGlobalVariable('ctl00_ctl00_MainPane_Content_MainContent_tbPassword');
+dxo.SetProperties({
+	'uniqueID':'ctl00$ctl00$MainPane$Content$MainContent$tbPassword',
+	'stateObject':{'rawValue':''},
+	'validationGroup':'LoginUserValidationGroup',
+	'customValidationEnabled':true,
+	'isValid':true,
+	'errorText':'Invalid value',
+	'validationPatterns':[
+		new ASPx.RequiredFieldValidationPattern('撖?敹?憛怠神')
+	],
+	'isErrorFrameRequired':true,
+	'errorImageIsAssigned':true,
+	'nullText':'撖?',
+	'helpText':'颲?函?撖?',
+	'helpTextDisplayMode':'Popup',
+	'helpTextVAlign':'Middle',
+	'helpTextStyle':['dxeHelpText_Moderno', null]
+});
+dxo.InitializeProperties({
+	'decorationStyles':[
+		{'key':'I','className':'dxeInvalid_Moderno','cssText':''},
+		{'key':'F','className':'dxeFocused_Moderno','cssText':''},
+		{'key':'N','className':'dxeNullText_Moderno','cssText':''}
+	]
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+        </div>
+        <div class="dxbButton_Moderno dxbButtonSys dxbTSys" id="ctl00_ctl00_MainPane_Content_MainContent_btnLogin" style="user-select:none;-khtml-user-select:none;-ms-user-select:none;">
+		<div class="dxb">
+			<input id="ctl00_ctl00_MainPane_Content_MainContent_btnLogin_I" class="dxb-hb" value="?餃?" type="submit" name="ctl00$ctl00$MainPane$Content$MainContent$btnLogin" /><span class="dx-vam">?餃?</span>
+		</div>
+	</div><script id="dxss_2009617069" type="text/javascript">
+<!--
+ASPx.AddHoverItems('ctl00_ctl00_MainPane_Content_MainContent_btnLogin',[[['dxbButtonHover_Moderno'],[''],[''],['','TC']]]);
+ASPx.AddPressedItems('ctl00_ctl00_MainPane_Content_MainContent_btnLogin',[[['dxbButtonPressed_Moderno'],[''],[''],['','TC']]]);
+ASPx.AddSelectedItems('ctl00_ctl00_MainPane_Content_MainContent_btnLogin',[[['dxbf'],[''],['CD']]]);
+
+var dxo = new ASPxClientButton('ctl00_ctl00_MainPane_Content_MainContent_btnLogin');
+dxo.InitGlobalVariable('ctl00_ctl00_MainPane_Content_MainContent_btnLogin');
+dxo.SetProperties({
+	'autoPostBack':true,
+	'uniqueID':'ctl00$ctl00$MainPane$Content$MainContent$btnLogin',
+	'serverEvents':['Click'],
+	'validationGroup':'LoginUserValidationGroup'
+});
+dxo.AfterCreate();
+
+//-->
+</script>
+    </div>
+    <br />
+    <div class="topMenu_underLine">
+    </div>
+    <div style="padding: 10px;">
+        <p>
+            <input type="image" name="ctl00$ctl00$MainPane$Content$MainContent$ImageButton1" id="ctl00_ctl00_MainPane_Content_MainContent_ImageButton1" src="../Content/O365Login.png" />
+        </p>
+        <p>
+            <a href="javascript:logoutO365();">
+            <img src="../Content/O365Logout.png" /></a>
+        </p>
+    </div>
+    <div style="padding: 8px;">
+        <h1 style="font-family: 'Arial,Helvetica Neue,Helvetica,sans-serif'; font-size: 18px;">憯唳?嚗憯唳??捆撠???湔嚗??阡?嚗?霂瑟?甈∠?交蝵△??敹◆?仿?敶?銝?甈∠?交?隞祉?蝵△?嚗銵函內???亙?隞乩???唬?憯唳??蝥行???
+        </h1>
+        <div style="font-family: 'Arial,Helvetica Neue,Helvetica,sans-serif'; font-size: 14px">
+            1.?祉?憿萄??鈭?砍?豢?????鈭箔?/雿輻????
+ 
+         
+             
+            <br>
+            <br>2.?冽蝵△???頧賣?????靘????
+ 
+         
+             
+            <br>
+            <br>3. 憒??鈭箔?/雿輻???祉?憿菜?閫?霂餃?嚗?頧賣?隞乩遙雿撘?葵鈭箄???敹◆銝交?萎?銝芯犖韏?嚗????∩?嚗?皜舀?靘洵486蝡???摰蝙?典?憭??銝芯犖韏??????祉?憿萄?敺?銝芯犖韏?鈭血?舐鈭?喃?摰????祉?憿萄?敺?韏??芯????雿輻?嗥?韐?遙?望??犖隞?雿輻?撌梯?韐??
+ 
+         
+             
+            <br>
+            <br>4.?砍?豢????嗥?甇Ｘ??犖憯?雿輻???餃????
+ 
+         
+             
+            <br>
+            <br>5.?砍?豢???蝏＆霈支?頧賢??????＆?改?憒?鈭悅嚗?璁誑蝵?霈啣?銝箏???
+ 
+         
+             
+            <br>
+            <br>6.?砍?訾??????祉?憿萎?頧賜?韏?銋?蝏蝙?冽???
+ 
+         
+             
+            <br>
+            <br>7.?砍?豢???甇Ｖ遙雿犖隞蝙??銵蝙隞蝵△?園????扇敶??乩遙雿犖隞?撘隞蝵△?園??????遙雿?敺?霈潘?銝??敺提隞餅?銝?砍???
+ 
+         
+             
+            <br>
+            <br>8.隞颱?鈭箔?隞蝵△?園?銋????芰??砍?詨???銝??洵銝?銝隡撈蝑?莎?鈭斗嚗???頧祉宏嚗???喳?餈???
+ 
+         
+             
+            <br>
+            <br>
+        </div>
+    </div>
+
+
+    </div>
+
+                
+</div>
+
+        <div class="dxpnlControl_Moderno footerPane panel dxpnl-edge b" id="ctl00_ctl00_FooterPane">
+	
+                    <div class="footerMenu">
+                        
+                        <div style="display: block;">
+                            <span class="dxeBase_Moderno" id="ctl00_ctl00_FooterPane_ASPxLabel2">銋遣擐葛???砍 &#169; 2017 ?????/span>
+                        </div>
+                    </div>
+
+                
+</div><script id="dxss_389532523" type="text/javascript">
+<!--
+
+var dxo = new ASPxClientPanel('ctl00_ctl00_FooterPane');
+dxo.InitGlobalVariable('footerPane');
+dxo.SetProperties({'uniqueID':'ctl00$ctl00$FooterPane','hideWindowWidth':500});
+dxo.AfterCreate();
+
+//-->
+</script>
+
+    </form>
+</body>
+</html>
+
+[2017-12-14 17:29:01]<!--End---1-->

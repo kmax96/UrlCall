@@ -1,0 +1,8 @@
+D:\Max_workspace\urlCall\UrlCall\UrlCall\bin\Debug\UrlCall.exe
+D:\Max_workspace\urlCall\UrlCall\UrlCall\bin\Debug\UrlCall.exe.config
+D:\Max_workspace\urlCall\UrlCall\UrlCall\obj\Debug\UrlCall.Properties.Resources.resources
+D:\Max_workspace\urlCall\UrlCall\UrlCall\obj\Debug\UrlCall.UrlCall.resources
+D:\Max_workspace\urlCall\UrlCall\UrlCall\obj\Debug\UrlCall.csproj.GenerateResource.Cache
+D:\Max_workspace\urlCall\UrlCall\UrlCall\obj\Debug\UrlCall.exe
+D:\Max_workspace\urlCall\UrlCall\UrlCall\obj\Debug\UrlCall.pdb
+D:\Max_workspace\urlCall\UrlCall\UrlCall\bin\Debug\UrlCall.pdb
